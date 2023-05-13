@@ -1,5 +1,3 @@
-// const token =
-//   "MTEwNjgxNzY3MDY0MjQwMTMzMA.GfPBsN.HMGWSSkz-lbDtU-FAEvqA50klEShdEbejMNU0I";
 const { config } = require("dotenv");
 const { Client, GatewayIntentBits } = require("discord.js");
 const { ask } = require("./ai.js");
